@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.swp
+*.zip
+*.pyc
+*.bak
+*.log
+.idea/
+node_modules/

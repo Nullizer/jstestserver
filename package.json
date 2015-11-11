@@ -1,0 +1,17 @@
+{
+  "name": "jstestserver",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nullizer",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.1.2",
+    "babel-plugin-transform-async-to-generator": "^6.0.14",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.1.3",
+    "koa": "^1.1.2"
+  }
+}
