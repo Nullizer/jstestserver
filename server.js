@@ -1,5 +1,5 @@
 import koa from 'koa'
-let app = koa()
+let app = new koa()
 
 app.experimental = true
 
